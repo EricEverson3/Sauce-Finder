@@ -1,0 +1,18 @@
+
+
+h1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(255, 119, 0);
+    height: 100px;
+}
+
+button{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    min-width: 120px;
+    
+}
